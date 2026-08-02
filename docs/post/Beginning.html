@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<html data-color-mode="light" data-dark-theme="dark_colorblind" data-light-theme="light" lang="zh-CN">
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
-    
-    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+    <link rel="stylesheet" href='/assets/zdy.css'><link rel="stylesheet" href='/assets/coy.css'><script src='/assets/clipboard.min.js'></script><script src='/assets/prism.full.js'></script><script src='/assets/qrcode-footer3x1.js'></script><meta http-equiv="Cache-Control" content="public, max-age=2592000">
+    <link rel="icon" href="https://s3.bmp.ovh/2026/06/27/7vP763Jm.png"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -19,7 +19,7 @@
 本博客基于 **Gmeek** 框架与 **GitHub Pages** 服务搭建。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://HongAXE.github.io/Blog/post/Beginning.html">
-<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<meta property="og:image" content="https://s3.bmp.ovh/2026/06/27/7vP763Jm.png">
 <title>Beginning</title>
 <link href="//unpkg.com/@wooorm/starry-night@2.1.1/style/both.css" rel="stylesheet" />
 
@@ -109,13 +109,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </blockquote>
 <p>代码块测试（Python）：</p>
 <div class="highlight highlight-source-python"><pre class="notranslate"><span class="pl-en">print</span>(<span class="pl-s">"Hello, Gmeek!"</span>)</pre></div></div>
-<div style="font-size:small;margin-top:8px;float:right;"></div>
+<div style="font-size:small;margin-top:8px;float:right;">HongAX</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
 
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://HongAXE.github.io/Blog">Blog Title</a></div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://HongAXE.github.io/Blog">HongAX's Blog</a></div>
 <div id="footer2">
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
@@ -124,8 +124,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("2026-08-02"!=""){
+    var startSite=new Date("2026-08-02");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行 "+diffDay+" 天"+" • ";
@@ -273,6 +273,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 </script>
-
+<script src='/assets/articletoc.js'></script><script src='/assets/backtop.js'></script><script src='/assets/lightbox.js'></script>
 
 </html>
