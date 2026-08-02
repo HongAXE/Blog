@@ -105,7 +105,7 @@
 ## 查询成分
 
 ### 游戏
-ㅤ
+
 - **RPG**:
     Undertale · Deltarune · OneShot · 魔女之家 · 独自在家 · 蘑茹奴恩
 
@@ -125,7 +125,7 @@
     沙雕之路
 
 ### 音乐
-ㅤ
+
 - **风格**:
     Speedcore · Trance · Hardcore · Artcore · Breakcore · Hyperflip · UK Hardcore · Dubstep · Colour Bass · Hi-Tech · Future Bass · Future Bounce · Full Flavour · J-Core  Neurofunk · Rawstyle · DnB · House · Vocaloid
 
