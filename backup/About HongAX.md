@@ -85,7 +85,7 @@
 
 我的个人博客，基于 Gmeek 框架与 GitHub Issues 搭建的技术空间。
 
-- **技术栈**：NotionNext · Vercel
+- **技术栈**：Gmeek · HTML/CSS
 - **状态**：✅️ 已发布
 - **访问地址**：  [HongAX's Blog](https://hongaxe.github.io/Blog/)
 
