@@ -8,7 +8,7 @@
     
     "startSite": "2026-08-02",
     "onePageListNum": 15,
-    "singlePage": ["link"]
+    "singlePage": ["link"],
     "exlink": {
         "github": "https://github.com/hongaxe"
     },
