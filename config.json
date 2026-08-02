@@ -4,7 +4,7 @@
     "avatarUrl": "https://s3.bmp.ovh/2026/06/27/7vP763Jm.png",
     "GMEEK_VERSION": "last",
 
-    "allHead":"<link rel=\"stylesheet\" href='/assets/zdy.css'><link rel=\"stylesheet\" href='/assets/coy.css'><script src='/assets/clipboard.min.js'></script><script src='/assets/prism.full.js'></script><script src='/assets/qrcode-footer3x1.js'></script><meta http-equiv=\"Cache-Control\" content=\"public, max-age=2592000\">",
+    "allHead": "<link rel='stylesheet' href='/assets/zdy.css'><link rel='stylesheet' href='/assets/coy.css'><script src='/assets/clipboard.min.js'></script><script src='/assets/prism.full.js'></script><script src='/assets/qrcode-footer3x1.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><meta http-equiv='Cache-Control' content='public, max-age=2592000'>",
     
     "startSite": "2026-08-02",
     "onePageListNum": 15,
