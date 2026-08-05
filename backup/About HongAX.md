@@ -1,7 +1,7 @@
 # 关于 HongAX
 
-欢迎来到我的个人博客！
-这是一个基于 Gmeek 框架与 GitHub Issues 搭建的技术空间，用于记录学习笔记、项目开发与日常思考。
+欢迎来到我的个人主页！
+在这里可以了解关于我的一些信息。
 
 ---
 
@@ -13,16 +13,6 @@
 | **生日** | 2009-09-07 |
 | **学校** | 深圳科学高中 |
 | **简介** | 作点傻开心的事 |
-
----
-
-## 技术工具
-
-- **编程语言**：
-    Python · HTML/CSS · JavaScript (学习中) · Markdown
-
-- **框架与工具**：
-    Gmeek · GitHub Issues
 
 ---
 
@@ -81,6 +71,7 @@
 - **访问地址**：  [需魔法](https://notion-next-alpha-seven-77.vercel.app/?theme=fuwari)
 
 ㅤ
+
 > ### Gmeek博客 <sub>**(HongAX-Work-5)**</sub>
 
 我的个人博客，基于 Gmeek 框架与 GitHub Issues 搭建的技术空间。
@@ -88,6 +79,17 @@
 - **技术栈**：Gmeek · HTML/CSS
 - **状态**：✅️ 已发布
 - **访问地址**：  [HongAX's Blog](https://hongaxe.github.io/Blog/)
+
+ㅤ
+
+> ### oshit! <sub>**(HongAX-Work-6)**</sub>
+
+网页小游戏，改自“吃掉小鹿乃”。
+[原项目仓库](https://github.com/arcxingye/EatKano)     [oshit!仓库](https://github.com/HongAXE/oshit)
+
+- **技术栈**：Gmeek · HTML/CSS
+- **状态**：✅️ 已发布
+- **访问地址**：  [oshit!](https://hongaxe.github.io/oshit/)
 
 ---
 
